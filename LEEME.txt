@@ -1,0 +1,22 @@
+RESCUE TRAINING · versión inicial 0.1
+
+CONTENIDO
+- Aplicación web progresiva (PWA) en español, diseñada para móvil.
+- Biblioteca con más de 100 ejercicios agrupados por calistenia, jujutsu, montaña, resistencia y movilidad.
+- Fichas con instrucciones iniciales, nivel y material.
+- Cocina FIT con 25 recetas y filtros.
+- Biblioteca personal para guardar rutinas, favoritos e historial.
+- Datos guardados localmente en el dispositivo y opción de exportación.
+- Caché básica para abrir las secciones principales sin conexión después de la primera carga.
+- Asistente local básico. No es todavía una IA generativa conectada.
+
+INSTALAR EN ANDROID
+1. Publica esta carpeta en un alojamiento HTTPS (por ejemplo, un hosting estático).
+2. Abre la dirección en Chrome en Android.
+3. Abre el menú de Chrome y elige «Instalar aplicación» o «Añadir a pantalla de inicio».
+4. Abre RESCUE TRAINING desde el icono.
+
+IMPORTANTE
+Esta entrega es una PWA instalable, no un APK nativo. No se ha compilado ni probado un APK. Para una IA avanzada hace falta conectar un servicio de IA mediante un backend seguro; nunca se debe poner una clave privada de API dentro del JavaScript público.
+
+Las técnicas de jujutsu que implican caídas, proyecciones o compañeros deben aprenderse en un dojo, con instructor y tatami. El contenido físico es orientativo, no una evaluación médica. Evita entrenar con dolor o intentar cargas máximas.
